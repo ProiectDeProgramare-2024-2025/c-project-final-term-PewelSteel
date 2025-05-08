@@ -1,0 +1,10 @@
+MAX_POINTS 30
+test203 30
+test1022 30
+test944 28
+BOss 27
+TEST26 26
+Test24 24
+testation 22
+Bossman 22
+testpp2 18
